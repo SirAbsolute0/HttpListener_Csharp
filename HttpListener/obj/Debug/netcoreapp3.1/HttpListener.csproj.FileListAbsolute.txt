@@ -1,0 +1,13 @@
+O:\Visual studio Full\Visual Studio project\HttpListener\HttpListener\bin\Debug\netcoreapp3.1\HttpListener.exe
+O:\Visual studio Full\Visual Studio project\HttpListener\HttpListener\obj\Debug\netcoreapp3.1\HttpListener.csprojAssemblyReference.cache
+O:\Visual studio Full\Visual Studio project\HttpListener\HttpListener\obj\Debug\netcoreapp3.1\HttpListener.AssemblyInfoInputs.cache
+O:\Visual studio Full\Visual Studio project\HttpListener\HttpListener\obj\Debug\netcoreapp3.1\HttpListener.AssemblyInfo.cs
+O:\Visual studio Full\Visual Studio project\HttpListener\HttpListener\bin\Debug\netcoreapp3.1\HttpListener.deps.json
+O:\Visual studio Full\Visual Studio project\HttpListener\HttpListener\bin\Debug\netcoreapp3.1\HttpListener.runtimeconfig.json
+O:\Visual studio Full\Visual Studio project\HttpListener\HttpListener\bin\Debug\netcoreapp3.1\HttpListener.runtimeconfig.dev.json
+O:\Visual studio Full\Visual Studio project\HttpListener\HttpListener\bin\Debug\netcoreapp3.1\HttpListener.dll
+O:\Visual studio Full\Visual Studio project\HttpListener\HttpListener\bin\Debug\netcoreapp3.1\HttpListener.pdb
+O:\Visual studio Full\Visual Studio project\HttpListener\HttpListener\obj\Debug\netcoreapp3.1\HttpListener.csproj.CoreCompileInputs.cache
+O:\Visual studio Full\Visual Studio project\HttpListener\HttpListener\obj\Debug\netcoreapp3.1\HttpListener.dll
+O:\Visual studio Full\Visual Studio project\HttpListener\HttpListener\obj\Debug\netcoreapp3.1\HttpListener.pdb
+O:\Visual studio Full\Visual Studio project\HttpListener\HttpListener\obj\Debug\netcoreapp3.1\HttpListener.genruntimeconfig.cache
